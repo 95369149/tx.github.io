@@ -1,5 +1,0 @@
-# > Tencent
-USER-AGENT,MicroMessenger%20Client,Tencent
-USER-AGENT,WeChat*,Tencent
-DOMAIN-SUFFIX,qq.com,Tencent
-DOMAIN-SUFFIX,tencent.com,Tencent
