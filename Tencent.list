@@ -1,0 +1,15 @@
+# > Tencent
+USER-AGENT,MicroMessenger%20Client, poxy
+USER-AGENT,WeChat*, poxy
+USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*, poxy
+DOMAIN-SUFFIX,gtimg.com, poxy
+DOMAIN-SUFFIX,idqqimg.com, poxy
+DOMAIN-SUFFIX,igamecj.com, poxy
+DOMAIN-SUFFIX,myapp.com, poxy
+DOMAIN-SUFFIX,myqcloud.com, poxy
+DOMAIN-SUFFIX,qq.com, poxy
+DOMAIN-SUFFIX,servicewechat.com, poxy
+DOMAIN-SUFFIX,tencent.com, poxy
+DOMAIN-SUFFIX,tencent-cloud.net, poxy
+DOMAIN-SUFFIX,tenpay.com, poxy
+DOMAIN,file-igamecj.akamaized.net, poxy
